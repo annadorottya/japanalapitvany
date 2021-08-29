@@ -3,7 +3,7 @@
 
 The [Japan Foundation in Budapest](https://japanalapitvany.hu/en) has an [online catalog](https://library.japanalapitvany.hu/) for their library (using a webapp called [Kiskönyvtár.Net](https://kiskonyvtar.net/)). The search functionality has its limitations, so I decided to scrape the data from it to a csv file.
 
-##Usage
+## Usage
 
 ```
 usage: main.py [-h] [-u [USERNAME]] [-p [PASSWORD]]
